@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "20project",
+		"path": ".."
+	},
+	{
+		"name": "music-player",
+		"path": "../../../Downloads/music-player"
+	}
+],
+  "settings": {}
+}
